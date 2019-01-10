@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from botflow import Pipe, Bot
+from botflow import Bot, Pipe
 from aiohttp import web
 
 

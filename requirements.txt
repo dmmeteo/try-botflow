@@ -1,3 +1,4 @@
 aiohttp
+pytest-aiohttp
 botflow
 flake8
